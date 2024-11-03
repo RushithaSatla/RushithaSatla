@@ -30,11 +30,7 @@ I'm a passionate computer science student focused on **Artificial Intelligence**
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-### 🤝 Let's Collaborate!
-I’m looking to collaborate on:
-- Food waste management projects
-- Mental health chatbots
-- Sustainable technology initiatives
+
 
 ### 📫 How to Reach Me
 - **Email**: rushitha@example.com
@@ -46,4 +42,3 @@ I love feeding birds and spend my free time exploring nature and gardening!
 
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RushithaSatla&show_icons=true&hide_border=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RushithaSatla&layout=compact&hide_border=true&theme=radical&langs_count=6&card_width=445)
