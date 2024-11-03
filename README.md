@@ -33,7 +33,7 @@ I'm a passionate computer science student focused on **Artificial Intelligence**
 
 
 ### 📫 How to Reach Me
-- **Email**: rushitha@example.com
+- **Email**: rushithasatla@gmail.com
 - **LinkedIn**: [Rushitha Satla](https://www.linkedin.com/in/rushitha-satla-62baa01bb/)
 
 ### ⚡ Fun Fact
