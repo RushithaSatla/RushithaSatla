@@ -8,11 +8,7 @@ I'm a passionate computer science student focused on **Artificial Intelligence**
 - **Machine Learning**: Exploring advanced techniques and their applications.
 - **Sustainability**: Committed to practices that reduce waste and promote environmental health.
 
-### 🚀 Currently Learning
-- Advanced Machine Learning Algorithms
-- Natural Language Processing (NLP)
-- AI Applications in Healthcare
-- Generative AI
+
 
 ### 💻 Languages & Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white) 
